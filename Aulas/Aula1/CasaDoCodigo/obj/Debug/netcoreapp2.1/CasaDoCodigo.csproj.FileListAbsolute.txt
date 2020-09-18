@@ -1,0 +1,11 @@
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.1\CasaDoCodigo.deps.json
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.1\CasaDoCodigo.runtimeconfig.json
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.1\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.1\CasaDoCodigo.dll
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.1\CasaDoCodigo.pdb
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.1\CasaDoCodigo.csprojAssemblyReference.cache
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.1\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.1\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.1\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.1\CasaDoCodigo.dll
+C:\Users\felipepsantanna\source\repos\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.1\CasaDoCodigo.pdb
